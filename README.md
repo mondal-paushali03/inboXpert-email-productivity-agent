@@ -101,7 +101,7 @@ This creates:
 Simply run the complete script:
 
 ```bash
-python inboxpert.ipynb
+python inboxpert.py
 ```
 
 The Gradio UI launches automatically:
