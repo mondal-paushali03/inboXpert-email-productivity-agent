@@ -6,6 +6,20 @@ InboXpert is an AI-driven email intelligence tool that transforms raw inbox over
 It categorizes emails, extracts tasks, summarizes content, drafts professional replies, and provides a chat-based email agent — all powered by a prompt-driven architecture and an integrated SQLite backend.
 <img width="1858" height="964" alt="Screenshot 2025-11-26 032620" src="https://github.com/user-attachments/assets/c4330a0d-fb3b-4b6e-84bf-bb48e65d7e75" />
 
+**Email Details Tab**
+<img width="1669" height="973" alt="image" src="https://github.com/user-attachments/assets/10cce325-a066-440e-8e3f-138cd2a4a03e" />
+
+**Email Chat Interface**
+<img width="1805" height="884" alt="image" src="https://github.com/user-attachments/assets/106fc1c1-688e-43f6-9cbf-d3fb906b8ec0" />
+<img width="1696" height="939" alt="image" src="https://github.com/user-attachments/assets/e2fbff2e-0690-49f2-ae3d-c0185db3119e" />
+
+**Draft Prompt Generator**
+<img width="1687" height="932" alt="image" src="https://github.com/user-attachments/assets/f97e3b7b-302e-4313-beea-b75c6a7f40c7" />
+
+**Email Draft Generator**
+<img width="1714" height="988" alt="image" src="https://github.com/user-attachments/assets/47d2fe5f-d3ba-47a5-a470-2dcd84899995" />
+<img width="1704" height="645" alt="image" src="https://github.com/user-attachments/assets/29421173-d391-48c8-a132-c644d607d327" />
+
 ---
 
 ## 🚀 **Key Features**
